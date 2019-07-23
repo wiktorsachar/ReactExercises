@@ -1,0 +1,15 @@
+* {
+  text-align: center
+}
+.content {
+  border-radius: 6px;
+  font-family: Arial;
+  font-weight: bold;
+}
+.top-buttons {
+  border-radius: 6px;
+}
+hr {
+  border: 1px solid #83c41a;
+  border-radius: 10px;
+}
