@@ -1,9 +1,11 @@
+/*
+Zaimplementuj HOC (Higher Order Component) którego celem będzie wstrzyknięcie do komponentu informacji 
+o używanym w aplikacji języku. Informacje o języku wyciągnij z LanguageContextu
+*/
+
 import React from "react";
 import Post from "./components/Post/Post";
 import Title from "./components/Title/Title";
-
-// import { LanguageProvider } from "./components/LanguageContext/LanguageContext";
-
 import movies from "./movies2.json";
 import enhanceApp from "./components/enhanceApp/enhanceApp";
 
